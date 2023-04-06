@@ -1,1 +1,3 @@
-dev 2 added some features
+dev 2 added some feature
+
+dev 2 added some changes
